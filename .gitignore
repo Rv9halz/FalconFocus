@@ -134,3 +134,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+# Replit config (if using Replit)
+.replit
+# macOS junk file
+.DS_Store
